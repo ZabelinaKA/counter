@@ -17,6 +17,8 @@ public class MainActivity : AppCompatActivity() {
         val countString = EditText.text.tostring()
         var count: Int = Integer.parseInt(countstring)
         count++
+
+            //fjkjkhiuiiuugf
         EditText.text = count.Tostring()
     }
 }
