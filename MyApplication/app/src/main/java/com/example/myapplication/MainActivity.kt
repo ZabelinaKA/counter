@@ -12,7 +12,7 @@ public class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-
+// Мои изменения
     fun counter (view: View) {
         val countString = EditText.text.tostring()
         var count: Int = Integer.parseInt(countstring)
