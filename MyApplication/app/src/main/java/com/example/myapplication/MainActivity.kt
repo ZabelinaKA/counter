@@ -20,4 +20,4 @@ public class MainActivity : AppCompatActivity() {
         count++
         EditText.text = count.Tostring()
     }
-}
+}// lastcomment
