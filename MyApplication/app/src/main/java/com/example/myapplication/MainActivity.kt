@@ -14,6 +14,7 @@ public class MainActivity : AppCompatActivity() {
     }
 // Мои изменения
     //new changes123
+    //  changes supernew
     fun counter (view: View) {
         val countString = EditText.text.tostring()
         var count: Int = Integer.parseInt(countstring)
